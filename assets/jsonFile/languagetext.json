@@ -1,0 +1,1978 @@
+{
+  "allText": [
+    {
+      "textId": "Sign Up",
+      "languageTextList": [
+        {
+          "fr": "S'inscrire"
+        },
+        {
+          "uz": "Ro'yxatdan o'tish"
+        },
+        {
+          "ru": "Зарегистрироваться"
+        }
+      ]
+    },
+    {
+      "textId": "Sign In",
+      "languageTextList": [
+        {
+          "fr": "Se connecter"
+        },
+        {
+          "uz": "Kirish"
+        },
+        {
+          "ru": "Войти"
+        }
+      ]
+    },
+    {
+      "textId": "By clicking start, your agree to our",
+      "languageTextList": [
+        {
+          "fr": "En cliquant sur démuzrer, vous acceptez nos"
+        },
+        {
+          "uz": "Boshlash tugmachasini bosish \norqali siz rozilik bildirasiz"
+        },
+        {
+          "ru": "Нажимая кнопку Старт, \nвы соглашаетесь"
+        }
+      ]
+    },
+    {
+      "textId": "Terms and Conditions",
+      "languageTextList": [
+        {
+          "fr": "Termes et conditions"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Connect with facebook",
+      "languageTextList": [
+        {
+          "fr": "Connecter avec Facebook"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Login with your phone number",
+      "languageTextList": [
+        {
+          "fr": "Connectez-vous avec votre numéro de téléphone"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Phone Number",
+      "languageTextList": [
+        {
+          "fr": "Numéro de téléphone"
+        },
+        {
+          "uz": "Telefon raqami"
+        },
+        {
+          "ru": "Номер телефона"
+        }
+      ]
+    },
+    {
+      "textId": "Next",
+      "languageTextList": [
+        {
+          "fr": "Prochain"
+        },
+        {
+          "uz": "Kiyingisi"
+        },
+        {
+          "ru": "Следующий"
+        }
+      ]
+    },
+    {
+      "textId": "Seuzch...",
+      "languageTextList": [
+        {
+          "fr": "Chercher..."
+        },
+        {
+          "uz": "Qidirish..."
+        },
+        {
+          "ru": "Поиск..."
+        }
+      ]
+    },
+    {
+      "textId": "Select your country.",
+      "languageTextList": [
+        {
+          "fr": "Sélectionnez votre pays."
+        },
+        {
+          "uz": "."
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Phone Verification",
+      "languageTextList": [
+        {
+          "fr": "Vérification du téléphone"
+        },
+        {
+          "uz": "Raqamni tasdiqlash"
+        },
+        {
+          "ru": "Проверка телефона"
+        }
+      ]
+    },
+    {
+      "textId": "Enter your OTP code here",
+      "languageTextList": [
+        {
+          "fr": "Entrez votre code OTP ici"
+        },
+        {
+          "uz": "OPT-kodni kiriting"
+        },
+        {
+          "ru": "Введите здесь свой OTP-код"
+        }
+      ]
+    },
+    {
+      "textId": "Verify now",
+      "languageTextList": [
+        {
+          "fr": "Vérifiez maintenant"
+        },
+        {
+          "uz": "Tasdiqlash"
+        },
+        {
+          "ru": "Подтвердить"
+        }
+      ]
+    },
+    {
+      "textId": "Bahodir Abdullayev",
+      "languageTextList": [
+        {
+          "fr": "Bahodir Abdullayev"
+        },
+        {
+          "uz": "Bahodir Abdullayev"
+        },
+        {
+          "ru": "Баходир Абдуллаев"
+        }
+      ]
+    },
+    {
+      "textId": "Today at 5:03 PM",
+      "languageTextList": [
+        {
+          "fr": "Aujourd'hui à 17:03"
+        },
+        {
+          "uz": "Bugun soat 5:03 da"
+        },
+        {
+          "ru": "Сегодня в 17:03"
+        }
+      ]
+    },
+    {
+      "textId": "Hello,uze you neuzby?",
+      "languageTextList": [
+        {
+          "fr": "Bonjour, êtes-vous à proximité?"
+        },
+        {
+          "uz": "Assalomu Alaykum, siz yaqindamisiz?"
+        },
+        {
+          "ru": "Здравствуйте, вы рядом?"
+        }
+      ]
+    },
+    {
+      "textId": "OK, Iam waiting at Vinmuzk\nStore",
+      "languageTextList": [
+        {
+          "fr": "OK, j'attends au Vinmuzk\nStore"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Today at 5:33 PM",
+      "languageTextList": [
+        {
+          "fr": "Aujourd'hui à 17h33"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Sorry, i am stuck in traffic.\nplease give me amoment",
+      "languageTextList": [
+        {
+          "fr": "Désolé, je suis coincé dans le trafic.\nVeuillez me donner un moment"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Type a message...",
+      "languageTextList": [
+        {
+          "fr": "Tapez un message ..."
+        },
+        {
+          "uz": "..."
+        },
+        {
+          "ru": "..."
+        }
+      ]
+    },
+    {
+      "textId": "Luzry Davis",
+      "languageTextList": [
+        {
+          "fr": "Luzry Davis"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Cash",
+      "languageTextList": [
+        {
+          "fr": "En espèces"
+        },
+        {
+          "uz": "Pul"
+        },
+        {
+          "ru": "Деньги"
+        }
+      ]
+    },
+    {
+      "textId": "Home",
+      "languageTextList": [
+        {
+          "fr": "Accueil"
+        },
+        {
+          "uz": "Asosiy menu"
+        },
+        {
+          "ru": "Главное меню"
+        }
+      ]
+    },
+    {
+      "textId": "My Wallet",
+      "languageTextList": [
+        {
+          "fr": "Mon portefeuille"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "History",
+      "languageTextList": [
+        {
+          "fr": "Histoire"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Notification",
+      "languageTextList": [
+        {
+          "fr": "Notification"
+        },
+        {
+          "uz": "Yangiliklar"
+        },
+        {
+          "ru": "Уведомление"
+        }
+      ]
+    },
+    {
+      "textId": "Invite Friends",
+      "languageTextList": [
+        {
+          "fr": "Inviter des amis"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Setting",
+      "languageTextList": [
+        {
+          "fr": "Réglage"
+        },
+        {
+          "uz": "Sozlamalar"
+        },
+        {
+          "ru": "Параметр"
+        }
+      ]
+    },
+    {
+      "textId": "Logout",
+      "languageTextList": [
+        {
+          "fr": "Se déconnecter"
+        },
+        {
+          "uz": "Chiqish"
+        },
+        {
+          "ru": "Выйти"
+        }
+      ]
+    },
+    {
+      "textId": "Confirm",
+      "languageTextList": [
+        {
+          "fr": "Confirmer"
+        },
+        {
+          "uz": "Tasdiqlash"
+        },
+        {
+          "ru": "Подтверждать"
+        }
+      ]
+    },
+    {
+      "textId": "Sunrise st",
+      "languageTextList": [
+        {
+          "fr": "Sunrise st"
+        },
+        {
+          "uz": "Vasxod bozori"
+        },
+        {
+          "ru": "Васход рынок"
+        }
+      ]
+    },
+    {
+      "textId": "465 Swift Village",
+      "languageTextList": [
+        {
+          "fr": "465 Swift Village"
+        },
+        {
+          "uz": "Sum"
+        },
+        {
+          "ru": "Sum"
+        }
+      ]
+    },
+    {
+      "textId": "Cancelled",
+      "languageTextList": [
+        {
+          "fr": "Annulé"
+        },
+        {
+          "uz": "Bekor qilindi"
+        },
+        {
+          "ru": "Отменено"
+        }
+      ]
+    },
+    {
+      "textId": "090 Joaquian isle Suite 76",
+      "languageTextList": [
+        {
+          "fr": "090 Joaquian isle Suite 76"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "25 Stacy Falls Suite 453",
+      "languageTextList": [
+        {
+          "fr": "25 Stacy Falls Suite 453"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "10 000 sum",
+      "languageTextList": [
+        {
+          "fr": "10 000 sum"
+        },
+        {
+          "uz": "10 000 sum"
+        },
+        {
+          "ru": "10 000 сум"
+        }
+      ]
+    },
+    {
+      "textId": "Completed",
+      "languageTextList": [
+        {
+          "fr": "Terminé"
+        },
+        {
+          "uz": "Yakunlandi"
+        },
+        {
+          "ru": "Завершена"
+        }
+      ]
+    },
+    {
+      "textId": "342 Lottie Views 435",
+      "languageTextList": [
+        {
+          "fr": "342 Lottie Views 435"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "026 Mitchell Burg Apt. 567",
+      "languageTextList": [
+        {
+          "fr": "026 Mitchell Burg Apt. 567"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Oct 15,2020",
+      "languageTextList": [
+        {
+          "fr": "15 octobre 2020"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "POPULAR LOCATONS",
+      "languageTextList": [
+        {
+          "fr": "LOCALITÉS POPULAIRES"
+        },
+        {
+          "uz": "Mashhur joylar"
+        },
+        {
+          "ru": "Популярные локации"
+        }
+      ]
+    },
+    {
+      "textId": "Drop-off",
+      "languageTextList": [
+        {
+          "fr": "Déposer"
+        },
+        {
+          "uz": "Tashlab qo'yish"
+        },
+        {
+          "ru": "Высадка"
+        }
+      ]
+    },
+    {
+      "textId": "My current location",
+      "languageTextList": [
+        {
+          "fr": "Ma position actuelle"
+        },
+        {
+          "uz": "Mening hozirgi joylashuvim"
+        },
+        {
+          "ru": "Мое текущее местоположение"
+        }
+      ]
+    },
+    {
+      "textId": "Pickup",
+      "languageTextList": [
+        {
+          "fr": "Ramasser"
+        },
+        {
+          "uz": "Olib ketish"
+        },
+        {
+          "ru": "Подбирать"
+        }
+      ]
+    },
+    {
+      "textId": "Old City",
+      "languageTextList": [
+        {
+          "fr": "Old City"
+        },
+        {
+          "uz": "Eski Shahar"
+        },
+        {
+          "ru": "Старый город"
+        }
+      ]
+    },
+    {
+      "textId": "Flower Market",
+      "languageTextList": [
+        {
+          "fr": "Flower Market"
+        },
+        {
+          "uz": "Gul Bozor"
+        },
+        {
+          "ru": "Цветочный рынок"
+        }
+      ]
+    },
+    {
+      "textId": "Sunrise",
+      "languageTextList": [
+        {
+          "fr": "Sunrise"
+        },
+        {
+          "uz": "Vasxod"
+        },
+        {
+          "ru": "Восход"
+        }
+      ]
+    },
+    {
+      "textId": "9-Market",
+      "languageTextList": [
+        {
+          "fr": "9-Market"
+        },
+        {
+          "uz": "9-Bozor"
+        },
+        {
+          "ru": "9-Рынок"
+        }
+      ]
+    },
+    {
+      "textId": "New Market",
+      "languageTextList": [
+        {
+          "fr": "New Market"
+        },
+        {
+          "uz": "Yangi Bozor"
+        },
+        {
+          "ru": "Новый Рынок"
+        }
+      ]
+    },
+    {
+      "textId": "Apply",
+      "languageTextList": [
+        {
+          "fr": "Appliquer"
+        },
+        {
+          "uz": "Murojaat qilish"
+        },
+        {
+          "ru": "Применять"
+        }
+      ]
+    },
+    {
+      "textId": "Input promo code",
+      "languageTextList": [
+        {
+          "fr": "Entrez le code promotionnel"
+        },
+        {
+          "uz": "Promo-kodni kiriting"
+        },
+        {
+          "ru": "Введите промокод"
+        }
+      ]
+    },
+    {
+      "textId": "   Promo Code",
+      "languageTextList": [
+        {
+          "fr": "   Code promo"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Just go",
+      "languageTextList": [
+        {
+          "fr": "Juste aller"
+        },
+        {
+          "uz": "Narxi"
+        },
+        {
+          "ru": "Расходы"
+        }
+      ]
+    },
+    {
+      "textId": "Neuz by you",
+      "languageTextList": [
+        {
+          "fr": "Près de chez vous"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "2 min",
+      "languageTextList": [
+        {
+          "fr": "2 min"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Payment",
+      "languageTextList": [
+        {
+          "fr": "Paiement"
+        },
+        {
+          "uz": "To'lov"
+        },
+        {
+          "ru": "Оплата"
+        }
+      ]
+    },
+    {
+      "textId": "Promo code",
+      "languageTextList": [
+        {
+          "fr": "Code promo"
+        },
+        {
+          "uz": "Kupon kodi"
+        },
+        {
+          "ru": "Промо-код"
+        }
+      ]
+    },
+    {
+      "textId": "Options",
+      "languageTextList": [
+        {
+          "fr": "Les options"
+        },
+        {
+          "uz": "Variantlar"
+        },
+        {
+          "ru": "Опции"
+        }
+      ]
+    },
+    {
+      "textId": "Request",
+      "languageTextList": [
+        {
+          "fr": "Demande"
+        },
+        {
+          "uz": "So'rov"
+        },
+        {
+          "ru": "Запрос"
+        }
+      ]
+    },
+    {
+      "textId": "25 Recommended",
+      "languageTextList": [
+        {
+          "fr": "25 Recommandé"
+        },
+        {
+          "uz": "25 Tavsiya etilgan"
+        },
+        {
+          "ru": "25 Рекомендуется"
+        }
+      ]
+    },
+    {
+      "textId": "DISTANCE",
+      "languageTextList": [
+        {
+          "fr": "DISTANCE"
+        },
+        {
+          "uz": "MASOFA"
+        },
+        {
+          "ru": "РАССТОЯНИЕ"
+        }
+      ]
+    },
+    {
+      "textId": "TIME",
+      "languageTextList": [
+        {
+          "fr": "TEMPS"
+        },
+        {
+          "uz": "VAQT"
+        },
+        {
+          "ru": "ВРЕМЯ"
+        }
+      ]
+    },
+    {
+      "textId": "PRICE",
+      "languageTextList": [
+        {
+          "fr": "PRIX"
+        },
+        {
+          "uz": "NARX"
+        },
+        {
+          "ru": "ЦЕНА"
+        }
+      ]
+    },
+    {
+      "textId": "0.2 km",
+      "languageTextList": [
+        {
+          "fr": "0,2 km"
+        },
+        {
+          "uz": "0.2"
+        },
+        {
+          "ru": "0.2 km"
+        }
+      ]
+    },
+    {
+      "textId": "Your booking has been confirmed. Driver will pickup you in 2 minutes.",
+      "languageTextList": [
+        {
+          "fr": "Votre réservation a été confirmée. Le chauffeur viendra vous chercher en 2 minutes."
+        },
+        {
+          "uz": "Buyurtmangiz tasdiqlandi"
+        },
+        {
+          "ru": "Ваше бронирование подтверждено"
+        }
+      ]
+    },
+    {
+      "textId": "Cancel",
+      "languageTextList": [
+        {
+          "fr": "Annuler"
+        },
+        {
+          "uz": "Bekor qilish"
+        },
+        {
+          "ru": "Отмена"
+        }
+      ]
+    },
+    {
+      "textId": "Done",
+      "languageTextList": [
+        {
+          "fr": "Terminé"
+        },
+        {
+          "uz": "Bajarildi"
+        },
+        {
+          "ru": "Сделано"
+        }
+      ]
+    },
+    {
+      "textId": "Cancel Request",
+      "languageTextList": [
+        {
+          "fr": "Demande d'annulation"
+        },
+        {
+          "uz": "So'rovni bekor qilish"
+        },
+        {
+          "ru": "Отменить запрос"
+        }
+      ]
+    },
+    {
+      "textId": "Shuze Your Invite Code",
+      "languageTextList": [
+        {
+          "fr": "Puztagez votre code d'invitation"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "When your friend sign up with your referral code, you will both get 3.0 coupons",
+      "languageTextList": [
+        {
+          "fr": "Lorsque votre ami s'inscrit avec votre code de puzrainage, vous recevrez tous les deux 3.0 coupons"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Invite Friends\nGet 3 Coupons each!",
+      "languageTextList": [
+        {
+          "fr": "Invitez des amis\nObtenez 3 coupons chacun!"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Nellie Scott",
+      "languageTextList": [
+        {
+          "fr": "Nellie Scott"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Trevor Salazuz",
+      "languageTextList": [
+        {
+          "fr": "Trevor Salazuz"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Chester Jennings",
+      "languageTextList": [
+        {
+          "fr": "Chester Jennings"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Sophie Bell",
+      "languageTextList": [
+        {
+          "fr": "Sophie Bell"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Shane Morales",
+      "languageTextList": [
+        {
+          "fr": "Shane Morales"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Rhoda Palmer",
+      "languageTextList": [
+        {
+          "fr": "Rhoda Palmer"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Nellie Scott",
+      "languageTextList": [
+        {
+          "fr": "Nellie Scott"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Samuel Hammond",
+      "languageTextList": [
+        {
+          "fr": "Samuel Hammond"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Esther Berry",
+      "languageTextList": [
+        {
+          "fr": "Esther Berry"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Seuzch",
+      "languageTextList": [
+        {
+          "fr": "Chercher"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Invite friends-GEt 3 coupens each!",
+      "languageTextList": [
+        {
+          "fr": "Invitez des amis-GEt 3 coupons chacun!"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Promotion",
+      "languageTextList": [
+        {
+          "fr": "Promotion"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Thank you Your transaction is done",
+      "languageTextList": [
+        {
+          "fr": "Merci Votre transaction est terminée"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "System",
+      "languageTextList": [
+        {
+          "fr": "Système"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Booking #156 has been cancelled.",
+      "languageTextList": [
+        {
+          "fr": "La réservation # 156 a été annulée."
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Booking #1234 has been succsess.",
+      "languageTextList": [
+        {
+          "fr": "La réservation # 1234 a été un succès."
+        },
+        {
+          "uz": "."
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Notifications",
+      "languageTextList": [
+        {
+          "fr": "Notifications"
+        },
+        {
+          "uz": "Yangiliklar"
+        },
+        {
+          "ru": "Уведомления"
+        }
+      ]
+    },
+    {
+      "textId": "Submit Review",
+      "languageTextList": [
+        {
+          "fr": "Poster le commentaire"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Additional comments...",
+      "languageTextList": [
+        {
+          "fr": "Commentaires supplémentaires ..."
+        },
+        {
+          "uz": "..."
+        },
+        {
+          "ru": "..."
+        }
+      ]
+    },
+    {
+      "textId": "Your feedback will help improve\ndriving experience",
+      "languageTextList": [
+        {
+          "fr": "Vos commentaires contribueront à améliorer\nl'expérience de conduite"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "How is your trip?",
+      "languageTextList": [
+        {
+          "fr": "Comment se passe ton voyage?"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Rating",
+      "languageTextList": [
+        {
+          "fr": "Évaluation"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Tips",
+      "languageTextList": [
+        {
+          "fr": "Conseils"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Wow! A 5 Stuz !\nWanna add tip for Gregory?",
+      "languageTextList": [
+        {
+          "fr": "Hou la la! Un 5 étoiles!\nVous voulez ajouter un conseil à Gregory?"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Choose other amount",
+      "languageTextList": [
+        {
+          "fr": "Choisissez un autre montant"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Maybe next time",
+      "languageTextList": [
+        {
+          "fr": "Peut-être la prochaine fois"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "My Account",
+      "languageTextList": [
+        {
+          "fr": "Mon compte"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Level",
+      "languageTextList": [
+        {
+          "fr": "Niveau"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Gold member",
+      "languageTextList": [
+        {
+          "fr": "Membre Gold"
+        },
+        {
+          "uz": "Oltin a'zo"
+        },
+        {
+          "ru": "Золотой участник"
+        }
+      ]
+    },
+    {
+      "textId": "Name",
+      "languageTextList": [
+        {
+          "fr": "Nom"
+        },
+        {
+          "uz": "Ism"
+        },
+        {
+          "ru": "Имя"
+        }
+      ]
+    },
+    {
+      "textId": "Email",
+      "languageTextList": [
+        {
+          "fr": "Email"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Gender",
+      "languageTextList": [
+        {
+          "fr": "Le sexe"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Female",
+      "languageTextList": [
+        {
+          "fr": "Femme"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Birthday",
+      "languageTextList": [
+        {
+          "fr": "Anniversaire"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "April 16, 1988",
+      "languageTextList": [
+        {
+          "fr": "16 avril 1988"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Duzk",
+      "languageTextList": [
+        {
+          "fr": "Foncée"
+        },
+        {
+          "uz": "Qorong'u"
+        },
+        {
+          "ru": "Темная"
+        }
+      ]
+    },
+    {
+      "textId": "Light",
+      "languageTextList": [
+        {
+          "fr": "Lumière"
+        },
+        {
+          "uz": "Yorug'"
+        },
+        {
+          "ru": "Светлая"
+        }
+      ]
+    },
+    {
+      "textId": "Select theme mode",
+      "languageTextList": [
+        {
+          "fr": "Sélectionnez le mode thème"
+        },
+        {
+          "uz": "Temani tanlang"
+        },
+        {
+          "ru": "Выберите режим темы"
+        }
+      ]
+    },
+    {
+      "textId": "Theme Mode",
+      "languageTextList": [
+        {
+          "ru": "Тема"
+        },
+        {
+          "fr": "Tema"
+        },
+        {
+          "uz": "Тема"
+        }
+      ]
+    },
+    {
+      "textId": "Language",
+      "languageTextList": [
+        {
+          "fr": "LANGUE"
+        },
+        {
+          "uz": "Til"
+        },
+        {
+          "ru": "Язык"
+        }
+      ]
+    },
+    {
+      "textId": "Security",
+      "languageTextList": [
+        {
+          "fr": "Sécurité"
+        },
+        {
+          "uz": "Xavfsizlik"
+        },
+        {
+          "ru": "Безопасность"
+        }
+      ]
+    },
+    {
+      "textId": "Contact us",
+      "languageTextList": [
+        {
+          "fr": "Nous contacter"
+        },
+        {
+          "uz": "Biz bilan bog'lanish"
+        },
+        {
+          "ru": "Связаться с нами"
+        }
+      ]
+    },
+    {
+      "textId": "Terms & Prvacy Policy",
+      "languageTextList": [
+        {
+          "fr": "Conditions et politique de confidentialité"
+        },
+        {
+          "uz": "Shartlar va Maxfiylik siyosati"
+        },
+        {
+          "ru": "Условия и политика \nконфиденциальности"
+        }
+      ]
+    },
+    {
+      "textId": "Clear cache",
+      "languageTextList": [
+        {
+          "fr": "Vider le cache"
+        },
+        {
+          "uz": "Keshni tozalash"
+        },
+        {
+          "ru": "Очистить кэш"
+        }
+      ]
+    },
+    {
+      "textId": "Select Language",
+      "languageTextList": [
+        {
+          "fr": "Choisir la langue"
+        },
+        {
+          "uz": "Tilni tanlash"
+        },
+        {
+          "ru": "Выбрать язык"
+        }
+      ]
+    },
+    {
+      "textId": "Settings",
+      "languageTextList": [
+        {
+          "fr": "Réglages"
+        },
+        {
+          "uz": "Sozlamalar"
+        },
+        {
+          "ru": "Настройки"
+        }
+      ]
+    },
+    {
+      "textId": "Get Started!",
+      "languageTextList": [
+        {
+          "fr": "Commencer!"
+        },
+        {
+          "uz": "Boshlash!"
+        },
+        {
+          "ru": "Начать!"
+        }
+      ]
+    },
+    {
+      "textId": "Know your driver in advance and be\nable to view current location in real-time\non the map",
+      "languageTextList": [
+        {
+          "fr": "Connaissez votre chauffeur à l'avance et soyez\npossibilité d'afficher l'emplacement actuel en temps réel\n sur la cuzte"
+        },
+        {
+          "uz": "Haydovchini oldindan bilib oling va \nreal vaqt rejimida xaritada hozirgi manzilni \nko'rish imkoniyatiga ega bo'ling"
+        },
+        {
+          "ru": "Знайте своего водителя заранее и \nсможете просматривать текущее местоположение \nв режиме реального времени на карте"
+        }
+      ]
+    },
+    {
+      "textId": "Track your ride",
+      "languageTextList": [
+        {
+          "fr": "Suivez votre trajet"
+        },
+        {
+          "uz": "Jonli kuzatish"
+        },
+        {
+          "ru": "Живое наблюдение"
+        }
+      ]
+    },
+    {
+      "textId": "Request a ride gets picked up by a\nnearby community driver",
+      "languageTextList": [
+        {
+          "fr": "Demander un trajet est récupéré puz un\nconducteur de la communauté à proximité"
+        },
+        {
+          "uz": "Taksi buyurtma qilish"
+        },
+        {
+          "ru": "Заказать такси"
+        }
+      ]
+    },
+    {
+      "textId": "Request Ride",
+      "languageTextList": [
+        {
+          "fr": "Demander un tour"
+        },
+        {
+          "uz": "Buyurtma berish"
+        },
+        {
+          "ru": "Заказать"
+        }
+      ]
+    },
+    {
+      "textId": "Nearby you",
+      "languageTextList": [
+        {
+          "fr": "Nearby you"
+        },
+        {
+          "uz": "Sizga yaqin"
+        },
+        {
+          "ru": "Рядом с вами"
+        }
+      ]
+    },
+    {
+      "textId": "Huge drivers network helps you find a\ncomfortable and cheap ride",
+      "languageTextList": [
+        {
+          "fr": "Un énorme réseau de conducteurs vous aide à\ntrouver un trajet confortable et bon muzché"
+        },
+        {
+          "uz": "Haydovchilar tarmog'i sizga qulay va \narzon sayohatni topishga yordam beradi"
+        },
+        {
+          "ru": "Сеть водителей поможет подобрать \nудобную и недорогую поездку"
+        }
+      ]
+    },
+    {
+      "textId": "Confirm your Driver",
+      "languageTextList": [
+        {
+          "fr": "Confirmez votre chauffeur"
+        },
+        {
+          "uz": "Haydovchini tasdiqlash"
+        },
+        {
+          "ru": "Подтвердите своего водителя"
+        }
+      ]
+    },
+    {
+      "textId": "Hi, nice to meet you!",
+      "languageTextList": [
+        {
+          "fr": "Salut! Enchanté!"
+        },
+        {
+          "uz": "Xush kelibsiz!"
+        },
+        {
+          "ru": "Добро пожаловать!"
+        }
+      ]
+    },
+    {
+      "textId": "Choose your location to start to find\nrestaurants around you.",
+      "languageTextList": [
+        {
+          "fr": "Choisissez votre emplacement pour commencer à trouver des\nrestaurants autour de vous."
+        },
+        {
+          "uz": "Qayerga borishni xohlayotganingizni \ntanlang."
+        },
+        {
+          "ru": "Выберите, куда вы хотите пойти."
+        }
+      ]
+    },
+    {
+      "textId": "Use current location",
+      "languageTextList": [
+        {
+          "fr": "Utiliser l'emplacement actuel"
+        },
+        {
+          "uz": "Hozirgi joylashuvdan foydalanish"
+        },
+        {
+          "ru": "Использовать текущее \nместоположение"
+        }
+      ]
+    },
+    {
+      "textId": "My Cab",
+      "languageTextList": [
+        {
+          "fr": "My Cab"
+        },
+        {
+          "uz": "Taxi"
+        },
+        {
+          "ru": "Taxi"
+        }
+      ]
+    },
+    {
+      "textId": "Your booking has been confirmed. Driver will pickup you in 2 minutes.",
+      "languageTextList": [
+        {
+          "fr": "Votre réservation a été confirmée. Le chauffeur viendra vous chercher en 2 minutes."
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Booking Succsessful",
+      "languageTextList": [
+        {
+          "fr": "Réservation réussie"
+        },
+        {
+          "uz": "Muvaffaqiyatli bandlov"
+        },
+        {
+          "ru": "Бронирование успешно"
+        }
+      ]
+    },
+    {
+      "textId": "PRICE",
+      "languageTextList": [
+        {
+          "fr": "PRIX"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Integral Mall",
+      "languageTextList": [
+        {
+          "fr": "Integral Mall"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Coupon",
+      "languageTextList": [
+        {
+          "fr": "Coupon"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Payment Methods",
+      "languageTextList": [
+        {
+          "fr": "méthodes de payement"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "EXPIRES",
+      "languageTextList": [
+        {
+          "fr": "EXPIRE"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "BALANCE",
+      "languageTextList": [
+        {
+          "fr": "ÉQUILIBRE"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Default Payment Method",
+      "languageTextList": [
+        {
+          "fr": "Méthode de paiement puz défaut"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Add New Method",
+      "languageTextList": [
+        {
+          "fr": "Ajouter une nouvelle méthode"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "CREDIT CuzD",
+      "languageTextList": [
+        {
+          "fr": "CuzTE DE CRÉDIT"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    },
+    {
+      "textId": "Payment Method",
+      "languageTextList": [
+        {
+          "fr": "Mode de paiement"
+        },
+        {
+          "uz": ""
+        },
+        {
+          "ru": ""
+        }
+      ]
+    }
+  ]
+}
